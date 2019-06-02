@@ -2,6 +2,9 @@
  > A place for collecting tech updates happening in china 
  
  
+ ## Alibaba 
+- [Alibaba in talks for second major investment in Thailand for industrial land · TechNode](https://technode.com/2019/05/28/alibaba-in-talks-for-second-major-investment-in-thailand-for-industrial-land/) - The company is in talks with Thailand's largest warehouse developer regarding an investment deal for industrial estate land. 
+
  ## SmartPhones 
 - [Huawei teams up with Tencent Video to upgrade content for smartphone users](https://technode.com/2019/05/28/huawei-tencent-content-upgrade/) - The partnership will allow improved technology sharing and operations cooperation between the two companies. 
 
